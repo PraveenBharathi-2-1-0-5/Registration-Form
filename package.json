@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "tailwindcss": "^4.3.4"
+  }
+}
